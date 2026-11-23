@@ -1,0 +1,15 @@
+# Data
+data/*
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# virtual environment
+.venv/
+venv
+env/
+.env
+.env.*
