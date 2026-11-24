@@ -1,5 +1,6 @@
 # Data
 data/*
+pdfs/*
 
 # Logs
 *.log
